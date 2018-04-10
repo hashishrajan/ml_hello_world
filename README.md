@@ -1,17 +1,17 @@
 # ml_hello_world
 Hello World for machine learning - Difference between orange and apple
 
-Pre-requisite:
+## Pre-requisite:
 - python3
 - pip3
 - scikit-learn module of python
 
 
-Instructions for Mac Users:
+## Instructions for Mac Users:
 - Ensure Homebrew is already installed - head to https://brew.sh for instructions.
 - Homebrew python install pip(python package manager) but if not, follow instructions on  https://pip.readthedocs.io/en/stable/installing/ to install pip3
 
-Copy and paste the lines below on your Mac terminal to get a jump start:
+#### Copy and paste the lines below on your Mac terminal to get a jump start:
 
 ```
 echo "Update your Homebrew"
